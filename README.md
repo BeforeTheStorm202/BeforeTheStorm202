@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haro!
 - 👀 I’m interested in CTF events (noob alert).
 - 🌱 I’m currently learning Information Security.
-- 💞️ I’m looking to collaborate on CTF events.
+- 💞️ I’m looking forward to collaborating on CTF events.
 - 📫 How to reach me: hajizen1107@gmail.com
 
 <!---
