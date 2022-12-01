@@ -2,7 +2,7 @@
 - 👀 I’m interested in CTF events (noob alert).
 - 🌱 I’m currently learning Information Security.
 - 💞️ I’m looking forward to collaborating on CTF events.
-- 📫 How to reach me: hajizen1107@gmail.com
+- 📫 How to reach me: harotruong@gmail.com
 
 <!---
 BeforeTheStorm202/BeforeTheStorm202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
